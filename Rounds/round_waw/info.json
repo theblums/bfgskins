@@ -1,0 +1,11 @@
+﻿{
+  "displayName": "round_waw",
+  "file": "round_waw",
+  "prefab": "round_waw",
+  "skybox": "CH_MrNinja_MAT",
+  "ambientMode": "3",
+  "ambientLight": "0.2 0.2 0.2 1",
+  "fog": "true",
+  "fogDensity": "0.2",
+  "fogColor": "0.5 0.5 0.5 1"
+}
