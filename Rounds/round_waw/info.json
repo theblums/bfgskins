@@ -5,7 +5,7 @@
   "skybox": "",
   "ambientMode": "3",
   "ambientLight": "0.2 0.2 0.2 1",
-  "fog": "true",
-  "fogDensity": "0.01",
+  "fog": "false",
+  "fogDensity": "0.05",
   "fogColor": "0.5 0.5 0.5 1"
 }
