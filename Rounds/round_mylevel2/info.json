@@ -1,8 +1,8 @@
 ﻿{
-  "displayName": "mylevel",
-  "file": "round_mylevel",
-  "prefab": "round_mylevel",
-  "skybox": "skybox",
+  "displayName": "mylevel2",
+  "file": "round_mylevel2",
+  "prefab": "round_mylevel2",
+  "skybox": "",
   "ambientMode": "3",
   "ambientLight": "0.2 0.2 0.2 1",
   "fog": "false",
