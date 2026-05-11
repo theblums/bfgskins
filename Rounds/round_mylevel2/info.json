@@ -1,0 +1,14 @@
+﻿{
+  "displayName": "mylevel2",
+  "file": "round_mylevel2",
+  "prefab": "round_mylevel2",
+  "skybox": "",
+  "ambientMode": "3",
+  "ambientLight": "0.2 0.2 0.2 1",
+  "fog": "false",
+  "fogDensity": "0.01",
+  "fogColor": "0.5 0.5 0.5 1",
+  "musicBank": "",
+  "musicEvent": "",
+  "musicStringsBank": ""
+}
