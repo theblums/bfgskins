@@ -1,8 +1,8 @@
 ﻿{
   "name": "Knockout Penguin",
   "author": "theblums",
-  "description": "The Penguin From Knockout!",
-  "file": "knockout penguin",
+  "description": "The penguin from knockout",
+  "file": "costume_knockout",
   "type": "costume",
   "keepBase": false,
   "boneOffsets": [
