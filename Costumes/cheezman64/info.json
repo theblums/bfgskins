@@ -1,8 +1,10 @@
-﻿{
+{
   "name": "cheezman64",
   "author": "theblums",
   "description": "its cheezman64!!",
   "file": "cheezman64",
   "type": "costume",
   "keepBase": false
+,
+  "group": "stupid"
 }
