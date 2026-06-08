@@ -5,7 +5,7 @@
   "skybox": "Default-Skybox",
   "ambientMode": "0",
   "ambientLight": "0.212 0.227 0.259 1",
-  "reflectionIntensity": "1",
+  "reflectionIntensity": "0",
   "fog": "false",
   "fogDensity": "0.01",
   "fogColor": "0.5 0.5 0.5 1",
