@@ -8,7 +8,5 @@
   "fog": "false",
   "fogDensity": "0.01",
   "fogColor": "0.5 0.5 0.5 1",
-  "musicBank": "",
-  "musicEvent": "",
-  "musicStringsBank": ""
+  "music": "0607.mp3"
 }
