@@ -1,11 +1,14 @@
 ﻿{
-  "displayName": "mylevel",
+  "displayName": "SussyBlox's Cool Obby!",
   "file": "round_mylevel",
   "prefab": "round_mylevel",
   "skybox": "skybox",
-  "ambientMode": "3",
-  "ambientLight": "0.2 0.2 0.2 1",
+  "ambientMode": "0",
+  "ambientLight": "0.212 0.227 0.259 1",
+  "reflectionIntensity": "1",
   "fog": "false",
   "fogDensity": "0.01",
-  "fogColor": "0.5 0.5 0.5 1"
+  "fogColor": "0.5 0.5 0.5 1",
+  "keepExistingObjects": "false",
+  "music": "0607.mp3"
 }
